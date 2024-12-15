@@ -1,0 +1,10 @@
+﻿  lab1.cpp
+C:\Users\User\Desktop\Yheba\Magic\1 Semestr\Dolbaeb\lab1\lab1\lab1.cpp(45,44): warning C4477: "sscanf_s": в строке форматирования "%[^,]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+      C:\Users\User\Desktop\Yheba\Magic\1 Semestr\Dolbaeb\lab1\lab1\lab1.cpp(45,44):
+      этот аргумент используется в качестве размера буфера
+  
+C:\Users\User\Desktop\Yheba\Magic\1 Semestr\Dolbaeb\lab1\lab1\lab1.cpp(83,44): warning C4477: "sscanf_s": в строке форматирования "%[^,]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+      C:\Users\User\Desktop\Yheba\Magic\1 Semestr\Dolbaeb\lab1\lab1\lab1.cpp(83,44):
+      этот аргумент используется в качестве размера буфера
+  
+  lab1.vcxproj -> C:\Users\User\Desktop\Yheba\Magic\1 Semestr\Dolbaeb\lab1\x64\Debug\lab1.exe
